@@ -3,7 +3,7 @@
 Tablero en Streamlit para analizar una cartera de seguros de auto y cotizar primas. Proyecto de la
 Tarea 1 del Módulo 5 del Diplomado Machine Learning en Seguros (FC UNAM).
 
-**App publicada:** _(link de streamlit.app)_
+**App publicada:** https://tablero-seguros-mfajardo.streamlit.app/
 
 ## Qué hace
 
