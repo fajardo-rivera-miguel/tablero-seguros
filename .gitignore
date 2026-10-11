@@ -1,0 +1,7 @@
+# la base se reconstruye sola desde el parquet, NO se sube
+cartera.db
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+.DS_Store
